@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "7399d295-b1fb-47b7-a2f7-ecfd90f9fdcf",
+    "name": "local",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-01-16T02:05:15.795Z",
+    "modified": "2023-01-16T02:05:15.795Z",
+    "data": [],
+    "envFile": "../.env"
+  }
+]

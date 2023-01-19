@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "6ef0c399-b3e5-492b-8d38-bdf36b8ec148",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8000/auth/login",
+    "url": "http://localhost:8000/api/auth/login",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-01-16T02:11:04.518Z",
+    "modified": "2023-01-16T02:17:06.035Z",
+    "headers": [
+      {
+        "name": "Accept",
+        "value": "*/*",
+        "isDisabled": true
+      },
+      {
+        "name": "User-Agent",
+        "value": "Thunder Client (https://www.thunderclient.com)",
+        "isDisabled": true
+      }
+    ],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "df2dc690-147f-4c93-90d3-82660eaadb14",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://www.thunderclient.com/welcome",
+    "url": "https://www.thunderclient.com/welcome",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-01-16T02:13:50.526Z",
+    "modified": "2023-01-16T02:13:50.526Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
